@@ -1,7 +1,2 @@
 # Web-Scraping-Java
-This is an application in which anyone can fetch the updates regaring the cases of COVID-19.
-Java has been used to complete this project.
-This project is basically used for finding updates regarding the covid cases in any country.
-I have fatch the data from worldometer. So using the HTML of this page I have fatched the data.
-Jsoup library has been used to fatch the data.
-JFrame library has been used for making GUI of the application.
+Created a COVID-19 data retrieval application using JSoup to fetch real-time information from Worldometer using JSoup library. Implemented a user-friendly GUI using JFrame to enhance user interaction. The application provides up-to-date COVID-19 statistics, ensuring a seamless and informative experience for users tracking pandemic data.
